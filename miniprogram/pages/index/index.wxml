@@ -1,0 +1,6 @@
+<text>hello {{name}}</text>
+<view>
+  <icon type="success"></icon>
+  <icon type="success"></icon>
+  <icon type="success"></icon>
+</view>
